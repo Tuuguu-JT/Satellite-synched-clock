@@ -1,8 +1,0 @@
-modbusSlave.c:16:6:sendData	24	static
-modbusSlave.c:26:6:modbusException	16	static
-modbusSlave.c:38:9:readHoldingRegs	24	static
-modbusSlave.c:77:9:readInputRegs	24	static
-modbusSlave.c:116:9:readCoils	40	static
-modbusSlave.c:182:9:readInputs	40	static
-modbusSlave.c:248:9:writeHoldingRegs	24	static
-modbusSlave.c:292:9:writeSingleReg	16	static
